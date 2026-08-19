@@ -16,9 +16,9 @@
 | **Course Title** | Skill Enhancement Course – Discrete Mathematics |
 | **Course Code** | `UGSEIT 1004` |
 | **Maximum Marks** | **50** |
-| **Internal Assessment** | **40** |
+| **Internal Assessment** | **05** |
 | **Tutorial** | **05** |
-| **University Examination** | **05** |
+| **University Examination** | **50** |
 
 ---
 
