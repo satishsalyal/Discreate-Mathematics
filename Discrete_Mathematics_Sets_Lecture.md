@@ -2,7 +2,6 @@
 
 # 📐 Discrete Mathematics: Sets and Elements
 
-## A Comprehensive Lecture on Set Theory Fundamentals
 
 [![Mathematics](https://img.shields.io/badge/Discrete%20Mathematics-1E88E5?logo=mathworks&logoColor=white&style=for-the-badge)]()
 [![Set Theory](https://img.shields.io/badge/Set%20Theory-FF6F00?style=for-the-badge)]()
@@ -80,7 +79,7 @@ Discrete Mathematics
 
 ### What is a Set?
 
-A **set** is a well-defined collection of distinct objects, considered as an object in its own right. The objects in a set are called **elements** or **members** of the set.
+A **set** is a well-defined, Unorded, collection of distinct objects, considered as an object in its own right. The objects in a set are called **elements** or **members** of the set.
 
 > 💡 **Intuitive Definition:** A set is like a "bag" or "container" that holds distinct objects. The order of objects does not matter, and duplicates are not allowed.
 
@@ -164,26 +163,7 @@ Visual representation using overlapping circles.
 
 > A **set** is an unordered collection of distinct objects, called **elements** or **members**, in which each element occurs exactly once.
 
-### Axiomatic Definition (Zermelo-Fraenkel Set Theory)
 
-In formal mathematics, sets are defined axiomatically. The **Zermelo-Fraenkel (ZF)** axioms provide the foundation:
-
-| Axiom | Description |
-|-------|-------------|
-| **Extensionality** | Two sets are equal if they have the same elements |
-| **Empty Set** | There exists a set with no elements |
-| **Pairing** | For any two sets, there exists a set containing both |
-| **Union** | The union of any collection of sets is a set |
-| **Power Set** | The set of all subsets of a set is a set |
-| **Infinity** | There exists an infinite set |
-| **Separation** | A subset defined by a property is a set |
-| **Replacement** | The image of a set under a function is a set |
-
-### Georg Cantor's Definition (1874)
-
-> *"A set is a gathering together into a whole of definite, distinct objects of our perception or of our thought — which are called elements of the set."*
->
-> — **Georg Cantor**, Founder of Set Theory
 
 ### Key Properties from the Definition
 
