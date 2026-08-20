@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🧮 Set Theory
-## Sets, Representation of Sets & Hierarchy of Numbers
+# 🧮 Set 
+## Sets, Representation of Sets &Types of Numbers
 
 [![Math](https://img.shields.io/badge/Subject-Discrete%20Mathematics-purple?logo=mathworks)]()
 [![Level](https://img.shields.io/badge/Level-Fundamental-blue)]()
