@@ -133,7 +133,7 @@ S = { x | criteria }
 
 ---
 
-## 🔢 Hierarchy of Numbers
+## 🔢 Types of Numbers
 
 The number system is organized in a nested hierarchy, from the most basic to the most general:
 
