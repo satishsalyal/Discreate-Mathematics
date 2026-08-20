@@ -32,7 +32,7 @@
 
 ### What is Discrete Mathematics?
 
-> **Discrete Mathematics** is the branch of mathematics dealing with objects that can assume only distinct, separated values. It is the mathematical foundation of computer science, logic, and digital systems.
+> **Discrete Mathematics** is the study of mathematical structures that are separate, countable, and distinct rather than continuous. It is the mathematical foundation of computer science, logic, and digital systems.
 
 Unlike **continuous mathematics** (calculus, geometry) which deals with smooth, unbroken quantities, discrete mathematics focuses on **countable, distinct, and separate** objects.
 
