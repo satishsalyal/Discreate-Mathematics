@@ -74,6 +74,10 @@ C = {x | x is a Natural number} → Set of all natural numbers
 > 💡 **Convention:** Sets are denoted by **capital letters**; elements by **lowercase letters**.
 
 ---
+## Mathematical Definition
+   Set A is written as: **A= {x ∣ property of x}**
+
+This means A is the set of all x such that x satisfies a certain property.
 
 ## 📋 Representation of Sets
 
