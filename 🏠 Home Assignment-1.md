@@ -24,11 +24,9 @@ The questions are intentionally designed so that students should be able to solv
 1. Solve **all questions** by yourself.
 2. The assignment must be **handwritten**.
 3. Do **not** copy answers from Google, ChatGPT, YouTube, websites, or other online sources.
-4. Write the **reasoning and intermediate steps**, not only the final answer.
-5. Draw **Venn diagrams** wherever required.
-6. Use your **own examples** wherever the question asks for examples.
-7. Keep your handwriting neat and clearly number each question.
-8. Write the declaration given at the end of the assignment.
+4. Use your **own examples** wherever the question asks for examples.
+5. Keep your handwriting neat and clearly number each question.
+
 
 ---
 
@@ -52,107 +50,8 @@ Construct the following sets:
 
 ---
 
-## Q2. Set Detective 🔍
 
-Let:
-
-$$
-A = \{1,2,3,4,5\}
-$$
-
-and
-
-$$
-B = \{2,4,6,8,10\}
-$$
-
-Without using any calculator or online help, determine:
-
-1. \(A \cup B\)
-2. \(A \cap B\)
-3. \(A-B\)
-4. \(B-A\)
-
-### Thinking Question
-
-What relationship do you observe between:
-
-$$
-A-B
-$$
-
-and
-
-$$
-B-A
-$$
-
-Give a reason for your answer.
-
----
-
-## Q3. Make Your Own Sets ✏️
-
-Create two sets \(P\) and \(Q\), each containing **exactly five elements**, such that:
-
-$$
-P \cap Q = \varnothing
-$$
-
-Then create another pair of sets \(R\) and \(S\), each containing **five elements**, such that:
-
-$$
-R \cap S \neq \varnothing
-$$
-
-### Your Tasks
-
-* Write the four sets.
-* Verify the required conditions.
-* Draw a **Venn diagram** for both cases.
-
----
-
-## Q4. Venn Diagram Challenge 🎯
-
-In a class of **40 students**:
-
-* 25 students like Python.
-* 18 students like Mathematics.
-* 10 students like both Python and Mathematics.
-
-Find:
-
-1. Number of students who like **only Python**.
-2. Number of students who like **only Mathematics**.
-3. Number of students who like **at least one** of the two subjects.
-4. Number of students who like **neither** subject.
-
-### Task
-
-Represent the complete situation using a **Venn diagram**.
-
----
-
-## Q5. True or False – But Explain! 🧠
-
-Decide whether each statement is **True or False**.
-
-Give a **reason** for every answer.
-
-### Statements
-
-1. \(\varnothing \subseteq A\), for every set \(A\).
-2. \(A \subseteq A\), for every set \(A\).
-3. If \(A \subseteq B\), then \(A=B\).
-4. If \(A=B\), then \(A \subseteq B\).
-5. \(\{1,2,3\} = \{3,2,1\}\).
-
-> **Important:** Do not write only "True" or "False". Explain *why*.
-
----
-
-## Q6. Power Set Challenge 🔢
+## Q2. Power Set Challenge 🔢
 
 Let:
 
@@ -168,13 +67,8 @@ $$
 4. What relationship do you observe between these two numbers?
 5. Predict the number of elements in the power set of a set containing **5 elements**.
 
-### Think Before You Answer 💡
 
-Try to discover the pattern yourself rather than memorizing a formula.
-
----
-
-## Q7. Find the Mistake 🔍
+## Q3. Find the Mistake 🔍
 
 A student writes:
 
@@ -199,103 +93,37 @@ $$
 1. Do you agree with the student's first statement?
 2. Do you agree with the student's second statement?
 3. Explain carefully why each statement is **correct or incorrect**.
-4. What is the difference between an **element** and a **set containing an element**?
+
 
 ---
+Q4. Finite or Infinite? ♾️
 
-## Q8. Real-Life Set Problem 📱
+Decide whether each of the following sets is finite or infinite.
 
-Think about the applications installed on a student's mobile phone.
+- Set of students in your classroom.
+Set of days in one week.
+Set of natural numbers.
+Set of months in a year.
+Set of even numbers.
+Set of integers.
+Set of prime numbers.
+Set of people currently sitting in your classroom.
+Thinking Task
 
-Create the following sets:
+Q5. Construct your own example of a universal set (U) and two sets (A) and (B) such that:
 
-### Set A
+[
+B\subset A\subset U
+]
 
-Apps used for **study**.
+Your example must satisfy all three conditions.
 
-### Set B
+Then:
 
-Apps used for **entertainment**.
-
-### Set C
-
-Apps used for **communication**.
-
-Each set must contain at least **4 applications**.
-
-Now determine:
-
-$$
-A \cup B
-$$
-
-$$
-A \cap B
-$$
-
-$$
-(A \cup B) \cap C
-$$
-
-### Explain in Words
-
-Explain what each resulting set represents in **your own words**.
-
----
-
-# ⭐ Q9. Thinking Question – No Formula
-
-Suppose:
-
-$$
-A = \{1,2,3,4\}
-$$
-
-and
-
-$$
-B = \{3,4,5,6\}
-$$
-
-A student says:
-
-> **"The union of two sets contains only the elements that are common to both sets."**
-
-### Questions
-
-1. Do you agree with the student's statement?
-2. Explain the student's mistake in your own words.
-3. Give the correct meaning of **union of two sets**.
-4. Demonstrate your answer using the given sets \(A\) and \(B\).
-
----
-
-# ⭐ Q10. Challenge Question 🏆
-
-Let \(A\) and \(B\) be two sets.
-
-You know that:
-
-$$
-A \cup B = A
-$$
-
-### Question
-
-What can you conclude about the relationship between \(A\) and \(B\)?
-
-### Instructions
-
-Do **not** simply write a memorized rule.
-
-Instead:
-
-1. Think about what the equation means.
-2. Explain your reasoning step-by-step.
-3. Create your **own example** of sets \(A\) and \(B\).
-4. Verify your conclusion using your example.
-
----
+Write (U), (A), and (B).
+Verify that (B\subset A).
+Verify that (A\subset U).
+Draw a diagram showing the relationship among (U), (A), and (B).
 
 # 📊 Suggested Marks Distribution
 
@@ -315,11 +143,7 @@ Instead:
 
 ---
 
-# ✍️ Student Declaration
-
-At the end of your handwritten assignment, write the following declaration:
-
-> **"I declare that I have solved this assignment independently using my own understanding of Set Theory. I have not copied the solutions from online sources, AI tools, websites, or from another student."**
+# Add following details on front page
 
 ### Student Details
 
