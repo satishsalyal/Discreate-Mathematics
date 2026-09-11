@@ -6,7 +6,7 @@
 
 ### 📋 Assignment Information
 
-| **Programme**       | **B.Sc. 1st Semester**       |
+| **Programme**       | **B.Sc. DS and AI 1st Semester**       |
 | ------------------- | ---------------------------- |
 | **Subject**         | **Discrete Mathematics**     |
 | **Unit**            | **Unit–I: Set Theory**       |
