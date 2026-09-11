@@ -1,6 +1,6 @@
-# 🏠 Home Assignment-1 – Discrete Mathematics
+# 🏠 Home Assignment-1  Discrete Mathematics
 
-## 📚 Unit–I: Set Theory
+## 📚 Unit-I: Set Theory
 
 ---
 
