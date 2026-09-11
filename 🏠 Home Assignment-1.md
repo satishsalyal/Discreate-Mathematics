@@ -210,7 +210,7 @@ Students should write the following details on the **front page** of the handwri
 
 **Roll No.:** ________________________________________
 
-**Programme:** **B.Sc. 1st Semester**
+**Programme:** **B.Sc. Data Science and AI 1st Semester**
 
 **Subject:** **Discrete Mathematics**
 
