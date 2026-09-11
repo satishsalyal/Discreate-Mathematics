@@ -1,4 +1,4 @@
-# 🏠 Home Assignment – Discrete Mathematics
+# 🏠 Home Assignment-1 – Discrete Mathematics
 
 ## 📚 Unit–I: Set Theory
 
