@@ -222,36 +222,5 @@ Students should write the following details on the **front page** of the handwri
 
 ---
 
-# 📜 Student Declaration
 
-At the end of the handwritten assignment, write the following declaration:
-
-> **"I declare that I have solved this assignment independently using my own understanding of Set Theory. I have not copied the solutions from online sources, AI tools, websites, or from another student."**
-
-**Student Signature:** _________________________________
-
----
-
-# 🌟 Remember
-
-> ## **Think → Understand → Solve → Explain**
-
-The purpose of this assignment is **not simply to obtain answers**.
-
-The purpose is to develop your ability to:
-
-* 🧠 **Think mathematically**
-* 🔍 **Understand concepts**
-* ✏️ **Solve problems independently**
-* 💡 **Give logical reasons**
-* 📊 **Represent mathematical ideas clearly**
-
----
-
-## 🚀 Final Message
-
-> **Do your own work.**
->
-> **Your thinking is more important than your final answer.**
->
 > ### 🌟 Think independently. Solve confidently. Learn genuinely!
