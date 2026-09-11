@@ -76,7 +76,7 @@ Can the same object appear in more than one set? Explain your answer.
 Let:
 
 $$
-A = \{a,b,c\}
+A = {a,b,c}
 $$
 
 ### Tasks
