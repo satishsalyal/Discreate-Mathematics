@@ -189,12 +189,12 @@ Your example should be **your own example**. Do not copy an example from the int
 
 | **Question** | **Topic**                 |    **Marks** |
 | -----------: | ------------------------- | -----------: |
-|           Q1 | Representation of Sets    |            5 |
-|           Q2 | Power Set                 |            6 |
-|           Q3 | Elements & Set Membership |            5 |
-|           Q4 | Finite & Infinite Sets    |            5 |
-|           Q5 | Subsets & Universal Set   |            5 |
-|    **Total** |                           | **26 Marks** |
+|           Q1 | Representation of Sets    |            2 |
+|           Q2 | Power Set                 |            2 |
+|           Q3 | Elements & Set Membership |            2 |
+|           Q4 | Finite & Infinite Sets    |            2 |
+|           Q5 | Subsets & Universal Set   |            2 |
+|    **Total** |                           | **10 Marks** |
 
 > **Note:** Marks may be adjusted by the instructor according to classroom requirements.
 
