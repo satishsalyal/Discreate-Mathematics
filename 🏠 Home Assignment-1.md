@@ -83,11 +83,6 @@ A = {a,b,c}
 2. How many elements are present in \(A\)?
 3. How many elements are present in \(P(A)\)?
 4. What relationship do you observe between these two numbers?
-5. Predict the number of elements in the power set of a set containing **5 elements**.
-
-### ⭐ Challenge
-
-Try to discover the pattern yourself rather than simply memorizing a formula.
 
 ---
 
@@ -95,9 +90,9 @@ Try to discover the pattern yourself rather than simply memorizing a formula.
 
 A student writes:
 
-$$
-A = \{1,2,3\}
-$$
+
+A = {1,2,3}
+
 
 and claims:
 
