@@ -1,57 +1,77 @@
 # 🏠 Home Assignment – Discrete Mathematics
 
-## Unit–I: Set Theory
+## 📚 Unit–I: Set Theory
 
-| **Programme**       | B.Sc. 1st Semester       |
-| ------------------- | ------------------------ |
-| **Subject**         | Discrete Mathematics     |
-| **Unit**            | Unit–I: Set Theory       |
-| **Assignment Type** | Individual / Handwritten |
-| **Submission Date** | **20 September 2026**    |
+---
+
+### 📋 Assignment Information
+
+| **Programme**       | **B.Sc. 1st Semester**       |
+| ------------------- | ---------------------------- |
+| **Subject**         | **Discrete Mathematics**     |
+| **Unit**            | **Unit–I: Set Theory**       |
+| **Assignment Type** | **Individual / Handwritten** |
+| **Submission Date** | **20 September 2026**        |
 
 ---
 
 ## 🎯 Assignment Objective
 
-This home assignment is designed to develop your **logical thinking, problem-solving ability, and understanding of Set Theory**.
+This home assignment is designed to develop students' ability in:
 
-The questions are intentionally designed so that students should be able to solve them using their **own understanding and reasoning**, without depending on online sources.
+* 🧠 **Logical thinking**
+* 💡 **Problem-solving**
+* 🔍 **Mathematical reasoning**
+* 📚 **Conceptual understanding of Set Theory**
+* ✏️ **Independent learning**
+
+> **Important:** The questions are intentionally designed so that students should be able to solve them using their **own understanding and reasoning**, without depending on online sources.
 
 ---
 
-## 📌 General Instructions
+# 📌 General Instructions
 
 1. Solve **all questions** by yourself.
 2. The assignment must be **handwritten**.
 3. Do **not** copy answers from Google, ChatGPT, YouTube, websites, or other online sources.
 4. Use your **own examples** wherever the question asks for examples.
-5. Keep your handwriting neat and clearly number each question.
-
+5. Show the **necessary steps and reasoning**.
+6. Draw **neat and properly labelled diagrams** wherever required.
+7. Keep your handwriting neat and clearly number each question.
+8. Students are encouraged to **think first and then write the answer**.
 
 ---
 
 # 📝 Assignment Questions
 
-## Q1. Think and Construct
+## Q1. 🍎 Think and Construct
 
 Consider the following group of objects:
 
-> Apple, Mango, Banana, Carrot, Potato, Orange, Tomato, Grapes
+> **Apple, Mango, Banana, Carrot, Potato, Orange, Tomato, Grapes**
 
 Construct the following sets:
 
-* **(a)** A set of fruits.
-* **(b)** A set of vegetables.
-* **(c)** A set containing objects that are commonly considered both fruits and vegetables.
-* **(d)** Write each set in:
+### Tasks
 
-  * Roster form
-  * Set-builder form
+**(a)** A set of fruits.
+
+**(b)** A set of vegetables.
+
+**(c)** A set containing objects that are commonly considered both fruits and vegetables.
+
+**(d)** Write each set in:
+
+* **Roster form**
+* **Set-builder form**
+
+### 🧠 Think
+
+Can the same object appear in more than one set? Explain your answer.
 
 ---
 
-
-## Q2. Power Set Challenge 🔢
+## Q2. 🔢 Power Set Challenge
 
 Let:
 
@@ -67,8 +87,13 @@ $$
 4. What relationship do you observe between these two numbers?
 5. Predict the number of elements in the power set of a set containing **5 elements**.
 
+### ⭐ Challenge
 
-## Q3. Find the Mistake 🔍
+Try to discover the pattern yourself rather than simply memorizing a formula.
+
+---
+
+## Q3. 🔍 Find the Mistake
 
 A student writes:
 
@@ -94,75 +119,146 @@ $$
 2. Do you agree with the student's second statement?
 3. Explain carefully why each statement is **correct or incorrect**.
 
+### 💡 Hint
+
+Look carefully at the difference between:
+
+$$
+\in
+$$
+
+and
+
+$$
+\subseteq
+$$
 
 ---
-Q4. Finite or Infinite? ♾️
 
-Decide whether each of the following sets is finite or infinite.
+## Q4. ♾️ Finite or Infinite?
 
-- Set of students in your classroom.
-Set of days in one week.
-Set of natural numbers.
-Set of months in a year.
-Set of even numbers.
-Set of integers.
-Set of prime numbers.
-Set of people currently sitting in your classroom.
-Thinking Task
+Decide whether each of the following sets is **finite** or **infinite**.
 
-Q5. Construct your own example of a universal set (U) and two sets (A) and (B) such that:
+1. Set of students in your classroom.
+2. Set of days in one week.
+3. Set of natural numbers.
+4. Set of months in a year.
+5. Set of even numbers.
+6. Set of integers.
+7. Set of prime numbers.
+8. Set of people currently sitting in your classroom.
 
-[
-B\subset A\subset U
-]
+### 🧠 Thinking Task
 
-Your example must satisfy all three conditions.
+Choose **any two sets** from the above list and explain:
 
-Then:
+* Why one set is finite.
+* Why the other set is infinite.
 
-Write (U), (A), and (B).
-Verify that (B\subset A).
-Verify that (A\subset U).
-Draw a diagram showing the relationship among (U), (A), and (B).
+> **Do not write only "finite" or "infinite". Give a reason for your answer.**
+
+---
+
+## Q5. 🌍 Construct Your Own Universal Set
+
+Construct your own example of a **Universal Set \(U\)** and two sets \(A\) and \(B\) such that:
+
+$$
+B \subset A \subset U
+$$
+
+Your example must satisfy **all three conditions**.
+
+### Then:
+
+1. Write \(U\), \(A\), and \(B\).
+2. Verify that:
+
+$$
+B \subset A
+$$
+
+3. Verify that:
+
+$$
+A \subset U
+$$
+
+4. Draw a diagram showing the relationship among \(U\), \(A\), and \(B\).
+
+### ⭐ Think Carefully
+
+Your example should be **your own example**. Do not copy an example from the internet.
+
+---
 
 # 📊 Suggested Marks Distribution
 
-| Question  | Topic                             |        Marks |
-| --------- | --------------------------------- | -----------: |
-| Q1        | Representation of Sets            |            5 |
-| Q2        | Union, Intersection & Difference  |            5 |
-| Q3        | Empty & Non-Empty Intersection    |            5 |
-| Q4        | Venn Diagram & Applications       |            8 |
-| Q5        | Subsets & Set Equality            |            5 |
-| Q6        | Power Set                         |            6 |
-| Q7        | Elements & Subsets                |            5 |
-| Q8        | Real-Life Applications of Sets    |            6 |
-| Q9        | Conceptual Understanding of Union |            5 |
-| Q10       | Logical Reasoning                 |            5 |
-| **Total** |                                   | **55 Marks** |
+| **Question** | **Topic**                 |    **Marks** |
+| -----------: | ------------------------- | -----------: |
+|           Q1 | Representation of Sets    |            5 |
+|           Q2 | Power Set                 |            6 |
+|           Q3 | Elements & Set Membership |            5 |
+|           Q4 | Finite & Infinite Sets    |            5 |
+|           Q5 | Subsets & Universal Set   |            5 |
+|    **Total** |                           | **26 Marks** |
+
+> **Note:** Marks may be adjusted by the instructor according to classroom requirements.
 
 ---
 
-# Add following details on front page
+# 📝 Front Page – Student Details
 
-### Student Details
+Students should write the following details on the **front page** of the handwritten assignment.
 
-**Name:** ______________________________________
+### 👨‍🎓 Student Information
 
-**Roll No.:** ___________________________________
+**Name:** ___________________________________________
 
-**Semester:** B.Sc. 1st Semester
+**Roll No.:** ________________________________________
 
-**Date of Submission:** __________________________
+**Programme:** **B.Sc. 1st Semester**
 
-**Signature:** __________________________________
+**Subject:** **Discrete Mathematics**
+
+**Unit:** **Unit–I: Set Theory**
+
+**Date of Submission:** **20 September 2026**
+
+**Signature:** _______________________________________
 
 ---
 
-## 🌟 Remember
+# 📜 Student Declaration
 
-> **Think → Understand → Solve → Explain**
+At the end of the handwritten assignment, write the following declaration:
 
-The purpose of this assignment is **not simply to obtain answers**. The purpose is to develop your ability to **think mathematically and explain your reasoning**.
+> **"I declare that I have solved this assignment independently using my own understanding of Set Theory. I have not copied the solutions from online sources, AI tools, websites, or from another student."**
 
-**Do your own work. Your thinking is more important than your final answer.**
+**Student Signature:** _________________________________
+
+---
+
+# 🌟 Remember
+
+> ## **Think → Understand → Solve → Explain**
+
+The purpose of this assignment is **not simply to obtain answers**.
+
+The purpose is to develop your ability to:
+
+* 🧠 **Think mathematically**
+* 🔍 **Understand concepts**
+* ✏️ **Solve problems independently**
+* 💡 **Give logical reasons**
+* 📊 **Represent mathematical ideas clearly**
+
+---
+
+## 🚀 Final Message
+
+> **Do your own work.**
+>
+> **Your thinking is more important than your final answer.**
+>
+> ### 🌟 Think independently. Solve confidently. Learn genuinely!
