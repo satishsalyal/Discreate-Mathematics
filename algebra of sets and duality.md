@@ -1,6 +1,5 @@
 # Algebra of Sets and the Principle of Duality
 
-> **Lecture Notes: Discrete Mathematics / Foundations of Computing**
 
 ---
 
