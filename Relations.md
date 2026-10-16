@@ -1063,9 +1063,7 @@ Let $A=\lbrace 1,2 \rbrace$ and $B=\lbrace x,y,z \rbrace$. Write $A\times B$ and
 
 **Answer:**
 
-$$
-A\times B=\lbrace (1,x),(1,y),(1,z),(2,x),(2,y),(2,z) \rbrace
-$$
+$$ A\times B=\lbrace (1,x),(1,y),(1,z),(2,x),(2,y),(2,z) \rbrace $$
 
 Its cardinality is $2\times3=6$.
 
