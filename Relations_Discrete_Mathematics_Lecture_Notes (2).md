@@ -2,7 +2,7 @@
 
 # 📐 Relations
 
-### Discrete Mathematics · Lecture Notes
+### Discrete Mathematics 
 
 ![Level](https://img.shields.io/badge/Level-B.Sc.%20Undergraduate-2563eb?style=for-the-badge)
 ![Subject](https://img.shields.io/badge/Subject-Discrete%20Mathematics-7c3aed?style=for-the-badge)
@@ -15,8 +15,7 @@
 
 ---
 
-> [!NOTE]
-> These notes cover the chapter in a structured, classroom-ready format with **definitions**, **explanations**, **worked examples**, **diagrams**, **summary tables**, and **practice questions**.
+
 
 ## 🗺️ Chapter Roadmap
 
@@ -1141,34 +1140,6 @@ Can a relation be both an equivalence relation and a partial order? Explain.
 
 ---
 
-<a id="sec11"></a>
 
-## 🗓️ 11. Suggested Classroom Teaching Sequence
 
-| Session | Focus |
-|:-:|:--|
-| **Lecture 1** | Ordered pairs, Cartesian products, and definitions of relations |
-| **Lecture 2** | Domain, range, inverse relations, and representations |
-| **Lecture 3** | Composition of relations and numerical examples |
-| **Lecture 4** | Reflexive, symmetric, antisymmetric, asymmetric, and transitive relations |
-| **Lecture 5** | Equivalence relations, equivalence classes, and partitions |
-| **Lecture 6** | Partial orders, comparability, and Hasse diagrams |
-| **Tutorial** | Property-testing problems, composition exercises, and equivalence-class questions |
 
-## 💡 Final Takeaway
-
-> [!TIP]
-> The central idea of this chapter is that **relations describe connections between elements, while their properties determine the mathematical structure of those connections**.
->
-> - 🟢 **Equivalence relations** group elements into classes.
-> - 🟠 **Partial orders** organize elements according to an ordering rule.
->
-> These concepts form the foundation for later topics in discrete mathematics, graph theory, databases, algorithms, and computer science.
-
----
-
-<div align="center">
-
-**✨ End of Lecture Notes ✨**
-
-</div>
