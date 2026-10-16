@@ -1063,7 +1063,7 @@ Let $A=\lbrace 1,2 \rbrace$ and $B=\lbrace x,y,z \rbrace$. Write $A\times B$ and
 
 **Answer:**
 
-$$ A\times B=\lbrace (1,x),(1,y),(1,z),(2,x),(2,y),(2,z) \rbrace $$
+$ A\times B=\lbrace (1,x),(1,y),(1,z),(2,x),(2,y),(2,z) \rbrace $
 
 Its cardinality is $2\times3=6$.
 
@@ -1085,9 +1085,9 @@ If $R=\lbrace (1,2),(2,3) \rbrace$ and $S=\lbrace (2,4),(3,5) \rbrace$, find $S\
 
 **Answer:**
 
-$$
+$
 S\circ R=\lbrace (1,4),(2,5) \rbrace
-$$
+$
 
 </details>
 
