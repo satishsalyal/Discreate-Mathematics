@@ -1,4 +1,4 @@
-# Lecture Notes: Relations — Discrete Mathematics
+###  Relations
 
 > **Level:** B.Sc. Undergraduate  
 > **Subject:** Discrete Mathematics  
