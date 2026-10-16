@@ -5,7 +5,7 @@
 > **Topic:** Relations  
 > **Coverage:** Product Sets, Relations, Composition, Types of Relations, Equivalence Relations, and Partial Ordering Relations
 
-These lecture notes cover the chapter in a structured, classroom-ready format, with definitions, explanations, worked examples, diagrams, summary tables, and practice questions.
+
 
 ## Learning Objectives
 
