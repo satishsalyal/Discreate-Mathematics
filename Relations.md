@@ -78,7 +78,7 @@ $$
 A=\lbrace 1,2,3 \rbrace, \qquad B=\lbrace 2,4,6 \rbrace
 $$
 
-Define a relationship from $A$ to $B$ by the rule “$b$ is twice $a$.” Then
+Define a relationship from $A$ to $B$ by the rule “ $b$ is twice $a$.” Then
 
 $$
 R=\lbrace (1,2),(2,4),(3,6) \rbrace
