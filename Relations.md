@@ -1018,15 +1018,7 @@ Can a relation be both an equivalence relation and a partial order? Explain.
 
 ---
 
-## 11. Suggested Classroom Teaching Sequence
 
-1. **Lecture 1:** Ordered pairs, Cartesian products, and definitions of relations.
-2. **Lecture 2:** Domain, range, inverse relations, and representations.
-3. **Lecture 3:** Composition of relations and numerical examples.
-4. **Lecture 4:** Reflexive, symmetric, antisymmetric, asymmetric, and transitive relations.
-5. **Lecture 5:** Equivalence relations, equivalence classes, and partitions.
-6. **Lecture 6:** Partial orders, comparability, and Hasse diagrams.
-7. **Tutorial:** Property-testing problems, composition exercises, and equivalence-class questions.
 
 ## Final Takeaway
 
