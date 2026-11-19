@@ -1,207 +1,295 @@
-# 🎓 Bachelor's Degree Programme in Data Science and Artificial Intelligence
+# Relations and Their Types (Properties)
 
-> ## 📘 Semester 1 · Batch 2026–30
-> **Course:** Skill Enhancement Course – Discrete Mathematics  
-> **Course Code:** `UGSEIT 1004`
+## Introduction to Relations
 
----
+A **relation** is a connection or association between the elements of two sets. A relation $R$ on a set $A$ is a subset of the Cartesian product $A \times A$.
 
-## 📋 Course Information
+**Example:**
 
-| 📌 **Component** | 📝 **Details** |
-|:---|:---|
-| **Programme** | Bachelor's Degree Programme in Data Science and Artificial Intelligence |
-| **Semester** | Semester 1 |
-| **Batch** | 2026–30 |
-| **Course Title** | Skill Enhancement Course – Discrete Mathematics |
-| **Course Code** | `UGSEIT 1004` |
-| **Maximum Marks** | **50** |
-| **Internal Assessment** | **05** |
-| **Tutorial** | **05** |
-| **University Examination** | **40** |
+Let $A = \{1,2,3\}$.
+
+Then,
+
+$$A \times A = \{(1,1),(1,2),(1,3),\ldots,(3,3)\}$$
+
+Suppose we define a relation:
+
+$$R = \{(1,1),(2,2),(3,3),(1,2),(2,3)\}$$
 
 ---
 
-## 🎯 Course Objective
+## Types of Relations
 
-The objective of this course is to develop a strong foundation in discrete mathematical structures such as **sets, relations, functions, and logic**.
+### 1. Reflexive Relation
 
-The course aims to:
+**Definition:** A relation $R$ on a set $A$ is called reflexive if every element of the set is related to itself.
 
-- 🧠 Develop analytical thinking and problem-solving skills.
-- 💻 Build mathematical foundations essential for computer science.
-- 🔍 Strengthen logical reasoning abilities.
-- ⚙️ Demonstrate the application of mathematical concepts in computational contexts.
+**Mathematical expression:**
 
----
+$$\forall a \in A,\quad (a,a) \in R$$
 
-# 📚 Course Contents
+Here, $\forall$ means "for all".
 
-## 🔹 UNIT I — Set Theory
+**Example:**
 
-### Topics Covered
+Let $A=\{1,2,3\}$.
 
-- Sets and Elements
-- Universal Set and Empty Set
-- Subsets
-- Venn Diagrams
-- Set Operations
-- Algebra of Sets and Duality
-- Ordered Sets
-- Cartesian Products of Sets
-- Finite and Infinite Sets
-- Classes of Sets
-- Power Sets
-- Partitions
+$$R=\{(1,1),(2,2),(3,3),(1,2)\}$$
 
-> 💡 **Focus:** Understanding the fundamental concepts and operations of sets and their applications in discrete mathematics.
+This relation is reflexive because all elements are related to themselves:
+
+- $(1,1)$ is present.
+- $(2,2)$ is present.
+- $(3,3)$ is present.
+
+**Key point:** All diagonal pairs must be present.
+
+**Real-life example:** Every person is equal to themselves.
 
 ---
 
-## 🔹 UNIT II — Relations and Functions
+### 2. Irreflexive Relation
 
-### 🔗 Relations
+**Definition:** A relation $R$ on a set $A$ is called irreflexive if no element is related to itself.
 
-- Introduction
-- Product Sets
-- Relations
-- Composition of Relations
-- Types of Relations
-- Equivalence Relations
-- Partial Ordering Relations
+**Mathematical expression:**
 
-### 🔄 Functions
+$$\forall a \in A,\quad (a,a) \notin R$$
 
-- One-to-One Functions
-- Onto Functions
-- Invertible Functions
+**Example:**
 
-> 💡 **Focus:** Analyze different types of relations and functions and understand their mathematical properties.
+Let $A=\{1,2,3\}$.
 
----
+$$R=\{(1,2),(1,3),(2,3)\}$$
 
-## 🔹 UNIT III — Logic and Propositional Calculus
+This relation is irreflexive because none of the following pairs exists:
 
-### Topics Covered
+- $(1,1)$
+- $(2,2)$
+- $(3,3)$
 
-- Introduction
-- Propositions and Compound Propositions
-- Basic Logical Operations
-- Propositions and Truth Tables
-- Tautologies and Contradictions
-- Logical Equivalence
-- Algebra of Propositions
+**Key point:** No diagonal pairs are present.
 
-> 💡 **Focus:** Develop the ability to evaluate logical statements and construct valid logical arguments.
+**Real-life example:** The relation "is greater than" ($>$).
+
+A number cannot be greater than itself. For example, $5>5$ is false.
 
 ---
 
-# 🎓 Course Outcomes
+### 3. Symmetric Relation
 
-After successful completion of this course, students will be able to:
+**Definition:** A relation $R$ on a set $A$ is called symmetric if whenever an element $a$ is related to $b$, then $b$ must also be related to $a$.
 
-| **CO** | **Learning Outcome** |
-|:---:|:---|
-| **CO1** | Apply set theory concepts and operations to represent and solve mathematical problems. |
-| **CO2** | Analyze and classify relations and functions, and apply their properties in problem-solving. |
-| **CO3** | Evaluate logical statements using propositional calculus and construct valid logical arguments. |
+**Mathematical expression:**
 
----
+$$\forall a,b \in A,\quad (a,b) \in R \Rightarrow (b,a) \in R$$
 
-# 📝 Note for Paper Setting
+**Example:**
 
-The **External End Semester Theory Examination** will have a total of **40 marks**.
+Let $A=\{1,2,3\}$.
 
-The question paper will be divided into:
+$$R=\{(1,2),(2,1),(2,3),(3,2)\}$$
 
-- **Section A – Short Answer Questions**
-- **Section B – Long Answer Questions**
+This relation is symmetric because:
 
-### 🟦 Section A
+- $(1,2)$ exists, and $(2,1)$ also exists.
+- $(2,3)$ exists, and $(3,2)$ also exists.
 
-| **Particular** | **Details** |
-|:---|:---|
-| Number of Questions | **04 compulsory questions** |
-| Coverage | At least one question from each unit |
-| Marks per Question | **2.5 marks** |
-| Total | **10 marks** |
+**Key point:** Every ordered pair must have its reverse pair.
 
-### 🟩 Section B
+**Real-life example:** The relation "is a friend of".
 
-| **Particular** | **Details** |
-|:---|:---|
-| Number of Questions | **06 questions** |
-| Distribution | **02 questions from each unit** |
-| Questions to Attempt | **01 question from each unit** |
-| Marks per Question | **10 marks** |
-| Total | **30 marks** |
-
-> 📌 **Examination Pattern:** Students must attempt one question from each unit in Section B.
+If A is a friend of B, then B is a friend of A (assuming friendship is mutual).
 
 ---
 
-# 📖 Suggested Readings
+### 4. Antisymmetric Relation
 
-### 📚 Primary References
+**Definition:** A relation $R$ on a set $A$ is called antisymmetric if whenever $a$ is related to $b$ and $b$ is related to $a$, then both elements must be equal.
 
-1. **Kenneth H. Rosen**  
-   *Discrete Mathematics and Its Applications*, 7th Edition, McGraw-Hill Education.
+**Mathematical expression:**
 
-2. **J. P. Tremblay & R. Manohar**  
-   *Discrete Mathematical Structures with Applications to Computer Science*, McGraw-Hill Education.
+$$\forall a,b \in A,\quad [(a,b) \in R \land (b,a) \in R] \Rightarrow a=b$$
 
-3. **Seymour Lipschutz & Marc Lipson**  
-   *Discrete Mathematics*, Schaum's Outline Series, McGraw-Hill Education.
+**Example:**
 
-4. **Narsingh Deo**  
-   *Discrete Mathematics with Applications to Computer Science*, Prentice Hall of India.
+Let $A=\{1,2,3\}$.
 
-5. **C. L. Liu & D. P. Mohapatra**  
-   *Elements of Discrete Mathematics*, Tata McGraw-Hill.
+$$R=\{(1,1),(2,2),(3,3),(1,2),(1,3)\}$$
 
----
+This relation is antisymmetric because:
 
-## 🗺️ Course at a Glance
+- $(1,2)$ exists, but $(2,1)$ does not exist.
+- $(1,3)$ exists, but $(3,1)$ does not exist.
+- The reverse pairs of the diagonal pairs are themselves.
 
-```text
-                    DISCRETE MATHEMATICS
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-       UNIT I           UNIT II          UNIT III
-          │                │                │
-     Set Theory       Relations &        Logic &
-                      Functions       Propositional
-                                       Calculus
-          │                │                │
-          ▼                ▼                ▼
-     Sets, Power      Relations,       Propositions,
-     Sets, Venn       Equivalence,     Truth Tables,
-     Diagrams,        Ordering,        Tautologies,
-     Partitions       Functions        Equivalence
-```
+Therefore, there are no two distinct elements related in both directions.
+
+**Key point:** Two different elements cannot be related in both directions.
+
+**Real-life example:** The relation "less than or equal to" ($\leq$).
+
+If $a \leq b$ and $b \leq a$, then $a=b$.
 
 ---
 
-## ✨ Key Skills Developed
+### 5. Asymmetric Relation
 
-| 🧠 Skill | 📌 Application |
-|:---|:---|
-| **Set Theory** | Mathematical representation and data organization |
-| **Relations** | Modeling relationships between objects |
-| **Functions** | Mathematical mappings and computational models |
-| **Logic** | Reasoning and decision-making |
-| **Propositional Calculus** | Formal reasoning and computer science applications |
-| **Problem Solving** | Analytical and computational thinking |
+**Definition:** A relation $R$ on a set $A$ is called asymmetric if whenever $a$ is related to $b$, then $b$ cannot be related to $a$.
+
+**Mathematical expression:**
+
+$$\forall a,b \in A,\quad (a,b) \in R \Rightarrow (b,a) \notin R$$
+
+**Example:**
+
+Let $A=\{1,2,3\}$.
+
+$$R=\{(1,2),(1,3),(2,3)\}$$
+
+This relation is asymmetric because:
+
+- $(1,2)$ exists, but $(2,1)$ does not.
+- $(1,3)$ exists, but $(3,1)$ does not.
+- $(2,3)$ exists, but $(3,2)$ does not.
+
+**Key point:** If one direction exists, the reverse direction must not exist.
+
+**Real-life example:** The relation "is taller than".
+
+If A is taller than B, then B cannot be taller than A.
+
+> **Important:** Every asymmetric relation is irreflexive, but not every irreflexive relation is asymmetric.
 
 ---
 
-<div align="center">
+### 6. Transitive Relation
 
-### 🎓 Discrete Mathematics · Semester 1
+**Definition:** A relation $R$ on a set $A$ is called transitive if whenever an element $a$ is related to $b$, and $b$ is related to $c$, then $a$ must also be related to $c$.
 
-**Bachelor's Degree Programme in Data Science and Artificial Intelligence**
+**Mathematical expression:**
 
-*Batch 2026–30*
+$$\forall a,b,c \in A,\quad [(a,b) \in R \land (b,c) \in R] \Rightarrow (a,c) \in R$$
 
-</div>
+**Example:**
+
+Let $A=\{1,2,3\}$.
+
+$$R=\{(1,2),(2,3),(1,3)\}$$
+
+This relation is transitive because:
+
+- $(1,2)$ exists.
+- $(2,3)$ exists.
+- Therefore, $(1,3)$ must exist, and it does.
+
+**Key point:** If two consecutive relationships exist, the direct relationship must also exist.
+
+**Real-life example:** The relation "less than" ($<$).
+
+If:
+
+$$2<5 \quad \text{and} \quad 5<8$$
+
+Then:
+
+$$2<8$$
+
+Therefore, the relation is transitive.
+
+---
+
+## Comparison of All Six Properties
+
+| Property      | Main condition                    | Example        |
+| ------------- | --------------------------------- | -------------- |
+| Reflexive     | Every element relates to itself   | $a=a$          |
+| Irreflexive   | No element relates to itself      | $a<a$ (false)  |
+| Symmetric     | Reverse pair must exist           | Friendship     |
+| Antisymmetric | Both directions imply equality    | $\leq$         |
+| Asymmetric    | Reverse pair must not exist       | $<$            |
+| Transitive    | Two relationships imply a third   | $<$            |
+
+---
+
+## Important Differences for Examinations
+
+These differences are particularly important for understanding and solving questions in Discrete Mathematics.
+
+| Symmetric                     | Antisymmetric                                            | Asymmetric                       |
+| ----------------------------- | -------------------------------------------------------- | -------------------------------- |
+| Reverse pair must exist.      | Reverse pair can exist only when elements are equal.     | Reverse pair must never exist.   |
+| $(1,2)$ requires $(2,1)$.     | $(1,2)$ and $(2,1)$ cannot both exist for distinct elements. | $(1,2)$ prohibits $(2,1)$.  |
+| Diagonal pairs are allowed.   | Diagonal pairs are allowed.                              | Diagonal pairs are not allowed.  |
+
+### Remember these important facts
+
+1. Every reflexive relation contains all diagonal pairs.
+2. Every irreflexive relation contains no diagonal pairs.
+3. Every asymmetric relation is irreflexive.
+4. Every asymmetric relation is antisymmetric.
+5. A relation can be both symmetric and antisymmetric.
+6. A relation can be both reflexive and symmetric.
+7. A relation can be neither symmetric nor antisymmetric.
+
+---
+
+## Practice MCQs
+
+**Q1.** Let $A = \{1,2,3\}$ and $R = \{(1,1),(2,2),(3,3)\}$. Which property does $R$ satisfy?
+
+- A. Reflexive
+- B. Irreflexive
+- C. Asymmetric
+
+**Correct answer:** A. Reflexive
+
+**Explanation:** All three diagonal pairs are present, so $R$ is reflexive.
+
+---
+
+**Q2.** $R = \{(1,2),(2,1)\}$. Which property does this relation satisfy?
+
+- A. Asymmetric
+- B. Symmetric
+- C. Irreflexive only
+
+**Correct answer:** B. Symmetric
+
+**Explanation:** Both $(1,2)$ and its reverse $(2,1)$ are present, so it is symmetric.
+
+---
+
+**Q3.** If $aRb$ and $bRa$ imply $a = b$, which property is satisfied?
+
+- A. Symmetric
+- B. Transitive
+- C. Antisymmetric
+
+**Correct answer:** C. Antisymmetric
+
+**Explanation:** This is the definition of an antisymmetric relation.
+
+---
+
+**Q4.** The relation "greater than ($>$)" on integers is:
+
+- A. Reflexive
+- B. Asymmetric
+- C. Symmetric
+
+**Correct answer:** B. Asymmetric
+
+**Explanation:** If $a > b$, then $b$ cannot be greater than $a$. It is asymmetric.
+
+---
+
+**Q5.** If $(1,2)$ and $(2,3)$ are in $R$, which pair must exist for transitivity?
+
+- A. $(3,1)$
+- B. $(2,1)$
+- C. $(1,3)$
+
+**Correct answer:** C. $(1,3)$
+
+**Explanation:** Transitivity requires $(1,3)$ to be present.
