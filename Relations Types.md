@@ -1,11 +1,6 @@
-# Properties of Relations in Discrete Mathematics
+# Relation and its type (Properties)
 
-> A clear, example-based guide to the six fundamental properties of
-> relations in Discrete Mathematics.
-
-------------------------------------------------------------------------
-
-## 1. Introduction to Relations
+##  Introduction to Relations
 
 A **relation** is a connection or association between the elements of
 two sets. A relation (R) on a set (A) is a subset of the Cartesian
@@ -23,12 +18,11 @@ Suppose we define a relation:
 
 \[ R = {(1,1),(2,2),(3,3),(1,2),(2,3)} \]
 
-The properties of relations help us understand the behaviour of these
-ordered pairs.
+# Types
 
 ------------------------------------------------------------------------
 
-## 2. Reflexive Relation
+## 1. Reflexive Relation
 
 **Definition:** A relation (R) on a set (A) is called reflexive if every
 element of the set is related to itself.
@@ -58,7 +52,7 @@ themselves:
 
 ------------------------------------------------------------------------
 
-## 3. Irreflexive Relation
+## 2. Irreflexive Relation
 
 **Definition:** A relation (R) on a set (A) is called irreflexive if no
 element is related to itself.
@@ -89,7 +83,7 @@ For example, (5\>5) is false.
 
 ------------------------------------------------------------------------
 
-## 4. Symmetric Relation
+## 3. Symmetric Relation
 
 **Definition:** A relation (R) on a set (A) is called symmetric if
 whenever an element (a) is related to (b), then (b) must also be related
@@ -120,7 +114,7 @@ mutual).
 
 ------------------------------------------------------------------------
 
-## 5. Antisymmetric Relation
+## 4. Antisymmetric Relation
 
 **Definition:** A relation (R) on a set (A) is called antisymmetric if
 whenever (a) is related to (b) and (b) is related to (a), then both
@@ -157,7 +151,7 @@ If (a`\leq `{=tex}b) and (b`\leq `{=tex}a), then (a=b).
 
 ------------------------------------------------------------------------
 
-## 6. Asymmetric Relation
+## 5. Asymmetric Relation
 
 **Definition:** A relation (R) on a set (A) is called asymmetric if
 whenever (a) is related to (b), then (b) cannot be related to (a).
@@ -191,7 +185,7 @@ irreflexive relation is not necessarily asymmetric.
 
 ------------------------------------------------------------------------
 
-## 7. Transitive Relation
+## 6. Transitive Relation
 
 **Definition:** A relation (R) on a set (A) is called transitive if
 whenever an element (a) is related to (b), and (b) is related to (c),
@@ -233,7 +227,7 @@ Therefore, the relation is transitive.
 
 ------------------------------------------------------------------------
 
-## 8. Comparison of All Six Properties
+## Comparison of All Six Properties
 
   Property        Main condition                    Example
   --------------- --------------------------------- ----------------
@@ -246,7 +240,7 @@ Therefore, the relation is transitive.
 
 ------------------------------------------------------------------------
 
-## 9. Important Differences for Examinations
+##  Important Differences for Examinations
 
 These differences are particularly important for understanding and
 solving questions in Discrete Mathematics.
@@ -278,10 +272,6 @@ solving questions in Discrete Mathematics.
 
 ------------------------------------------------------------------------
 
-## 10. Test Your Understanding
-
-Try these questions to check whether you have understood the six
-properties.
 
 ### Practice MCQs
 
@@ -340,15 +330,3 @@ transitivity?
 
 **Explanation:** Transitivity requires (1,3) to be present.
 
-------------------------------------------------------------------------
-
-## Exam Preparation Tip
-
-Practise identifying these properties by examining the ordered pairs of
-a relation. Pay particular attention to the differences between
-symmetric, antisymmetric and asymmetric relations, as these are commonly
-confused in examinations.
-
-------------------------------------------------------------------------
-
-*Study note: Properties of Relations --- Discrete Mathematics*
