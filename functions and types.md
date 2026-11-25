@@ -1,8 +1,5 @@
 # Functions and Their Types
 
-> A complete guide to **One-to-One**, **Onto**, and **Invertible** functions with definitions, diagrams, and solved examples.
-
----
 
 ## 📌 Table of Contents
 
