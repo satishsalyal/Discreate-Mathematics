@@ -1,14 +1,6 @@
 # ✨ Propositional Logic
 
-### 📘 Discrete Mathematics · Complete Lecture Notes
 
-<p align="center">
-
-`🏫 B.Sc. Data Science & Artificial Intelligence`
-
-`📅 Lecture Series · Week 1–2`
-
-</p>
 
 ---
 
@@ -799,16 +791,4 @@ When solving a compound logical expression, follow this practical order:
 
 ---
 
-<div align="center">
 
-## 🏁 End of Notes
-
-*Prepared as undergraduate learning material for **Discrete Mathematics**.*
-
-💡 **Pro Tip:** *Construct each truth table yourself and verify the final column **before** classifying an expression.*
-
----
-
-**Made with ❤️ for Students · Good Luck for Your Exams! 🍀**
-
-</div>
