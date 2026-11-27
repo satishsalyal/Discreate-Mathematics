@@ -166,7 +166,7 @@ A **compound proposition** is formed by combining two or more simple proposition
 | Represented by `p`, `q`, `r` | Represented by expressions like `p ∧ q` |
 
 ---
-*Source image: [image1.png](Images/image1.png)*
+*Source image: [image2.png](Images/image2.png)*
 
 ## 5️⃣ Logical Connectives
 
