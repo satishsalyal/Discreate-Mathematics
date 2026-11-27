@@ -37,7 +37,7 @@
 | 1️⃣7️⃣ | Self-Assessment 🧠 | [Go →](#17-self-assessment-quiz) |
 
 ---
-*Source image: [image1.png](images/image1.png)*
+*Source image: [image1.png](Images/image1.png)*
 
 ## 1️⃣ Introduction
 
