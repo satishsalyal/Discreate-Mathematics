@@ -1,10 +1,5 @@
 # Propositional Logic
 
-### Complete Lecture Notes \| Discrete Mathematics
-
-**For:** Undergraduate Students · B.Sc. Data Science & Artificial
-Intelligence
-
 > **Learning objectives:** Understand propositions and truth values,
 > identify simple and compound statements, use logical connectives,
 > construct truth tables, and classify formulas as tautologies,
@@ -809,8 +804,4 @@ Try answering these questions without referring to the notes.
 
 ------------------------------------------------------------------------
 
-**End of Notes**
 
-*Prepared as undergraduate learning material for Discrete Mathematics.
-Students are encouraged to construct each truth table themselves and
-verify the final column before classifying an expression.*
