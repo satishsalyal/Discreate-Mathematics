@@ -727,11 +727,7 @@ When solving a compound logical expression, follow this practical order:
 >
 > 📌 **Truth Table Rows:** For `n` distinct propositions, the number of rows is `2ⁿ`.
 
-### 📅 Suggested Lecture Plan
 
-- **🗓️ Lecture 1:** Introduction, propositions, truth values, types of propositions and logical connectives.
-- **🗓️ Lecture 2:** Conjunction, disjunction, negation, tautology, contradiction and contingency.
-- **🗓️ Practice Session:** Truth tables, solved questions and student exercises.
 
 ---
 
